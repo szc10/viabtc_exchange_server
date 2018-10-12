@@ -1,8 +1,8 @@
 #!/bin/bash
 
-MYSQL_HOST="localhost"
-MYSQL_USER="user"
-MYSQL_PASS="pass"
+MYSQL_HOST="test.jhelllo.cn"
+MYSQL_USER="root"
+MYSQL_PASS="123456"
 MYSQL_DB="trade_history"
 
 for i in `seq 0 99`
